@@ -17,4 +17,3 @@ HomeTurf integration for teams, using webview, with SMS auth login and no extern
   s.swift_version = "5"
   s.ios.deployment_target  = '13.0'
 end
-EOF
