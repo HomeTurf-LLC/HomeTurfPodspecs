@@ -1,7 +1,5 @@
 //
 //  TeamHomeTurfAuth0Service.swift
-//  TestTeamApp
-//
 //
 
 import Auth0
