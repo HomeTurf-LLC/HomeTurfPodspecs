@@ -40,7 +40,7 @@ To install the HomeTurf SDK and/or Auth0, run
 pod install
 ```
 
-and (IMPORTANT) then if not already using cocoapods, close your project and reopen the `.xcworkspace` file in Xcode rather than `.xcproject` in the future.
+and (*IMPORTANT*) if not already using cocoapods, close your project and reopen the `.xcworkspace` file in Xcode rather than `.xcproject` in the future.
 
 To complete integration, see instructions for:
 
