@@ -44,6 +44,6 @@ and (*IMPORTANT*) if not already using cocoapods, close your project and reopen 
 
 To complete integration, see instructions for:
 
-- [Objective C](./setup-objective-c)
-- [Swift with Storyboard](./setup-swift-storyboard)
-- [Swift with SwiftUI](./setup-swift-swiftui)
+- [Objective C](./setup-objective-c.md)
+- [Swift with Storyboard](./setup-swift-storyboard.md)
+- [Swift with SwiftUI](./setup-swift-swiftui.md)
