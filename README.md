@@ -23,7 +23,7 @@ Create or update a Podfile in your iOS project with the following:
 platform :ios, "13.0" # Minimum version 13
 target '{YOUR_APP_NAME}' do
   use_frameworks!
-  pod 'HomeTurf', '1.0.6', :source => "git@github.com:HomeTurf-LLC/HomeTurfPodspecs.git"
+  pod 'HomeTurf', '1.0.17', :source => "git@github.com:HomeTurf-LLC/HomeTurfPodspecs.git"
 end
 
 ```
